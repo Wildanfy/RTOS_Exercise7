@@ -85,23 +85,12 @@ void accessSharedData(void) {
 3. Compile and flash the code onto your STM32 microcontroller.
 4. Observe the LEDs blinking based on the specified task logic.
 
-## Future Enhancements
-- Add support for additional LEDs or peripherals.
-- Implement inter-task communication using FreeRTOS queues or semaphores.
-- Extend shared resource handling with more complex examples.
 
-## License
-This project is licensed under the terms of the [STMicroelectronics License Agreement](LICENSE).
-
-## Author
-Developed by [Your Name], 2024.
-
----
-Feel free to contribute to this project by creating issues or submitting pull requests.
+## IOC Pin
 
 
-## Pin IOC
-## Video Demo
+
+## Demo Video
 https://github.com/user-attachments/assets/797069b3-24ff-4e49-a5a0-b19c0b02cdf5
 ## Contributor
 - Wildan Faizin (3222600011)
